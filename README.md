@@ -1,0 +1,1 @@
+The omni foods website is built upon the concept of Open Network for Digital Commerce (ONDC), where you can contact the restaurant directly instead of placing an order through zomato or swiggy, for now the website is done with the front end, if any one likes to contibute to the backend, yes you can!!
